@@ -75,6 +75,10 @@ export default {
         tokenType: 'bearer'
       }
     }
+  },
+
+  generate: {
+    fallback: true
   }
 
 }
